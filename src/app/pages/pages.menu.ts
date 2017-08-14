@@ -208,6 +208,14 @@ export const PAGES_MENU = [
               }
             }
           },
+          {
+            path: 'mytest',
+            data: {
+              menu: {
+                title: 'excel test',
+              }
+            }
+          },
            {
              path: 'hottables',
              data: {
